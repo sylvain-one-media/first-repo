@@ -45,9 +45,10 @@
 
     <div class="container">
         <br><br><br>
-        <h1>Open Classroom, la formation de dev en puissance ?</h1>
-        <p class="lead">Use this document as a way to quickly start any new project.
-            <br> All you get is this text and a mostly barebones HTML document.</p>
+        <h1>Bonjour, je suis Sylvain Raux,<br>et je me forme au métier de développeur !</h1>
+        <div class="row">
+            <img src="image/sylvain_raux.jpg" class="img-responsive col-lg-4 col-lg-offset-4 col-md-6-col-md-offset-3 col-sm-10 col-sm-offset-1 col-xs-12" alt="image sylvain Raux" title="Sylvain Raux">
+        </div>
     </div>
     <!-- /.container -->
 
