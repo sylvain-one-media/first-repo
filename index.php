@@ -31,13 +31,12 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#">Project name</a>
+                <a class="navbar-brand" target="_blank" href="http://www.pole-emploi.fr/accueil/">Pôle emploi</a>
             </div>
             <div id="navbar" class="collapse navbar-collapse">
                 <ul class="nav navbar-nav">
-                    <li class="active"><a href="#">Home</a></li>
-                    <li><a href="#about">About</a></li>
-                    <li><a href="#contact">Contact</a></li>
+                    <li class="active"><a target="_blank" href="http://www.emploi-store.fr/portail/accueil;JSESSIONID_ESU=vnpqRVvEqPrJHJgDXqOyY-pUAxpcya6w_X_cUBYVXqrfkh2SZoK_!-2072419856">Emploi store</a></li>
+                    <li><a target="_blank" href="http://www.pole-emploi.fr/candidat/votre-espace-personnel-votre-tableau-de-bord-unique--@/index.jspz?id=308341">Espace Personnel</a></li>
                 </ul>
             </div>
             <!--/.nav-collapse -->
