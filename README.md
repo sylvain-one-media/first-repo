@@ -1,2 +1,2 @@
 # first-repo
-exercice-open-classroom pour a validation des compétences sur GIT
+exercice-open-classroom pour la validation des compétences sur GIT
